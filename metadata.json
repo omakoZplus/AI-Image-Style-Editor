@@ -1,0 +1,5 @@
+{
+  "name": "Anime/Game Art Style Editor!",
+  "description": "Upload an image and transform it into various anime and game art styles, or edit it with custom text prompts using the Gemini API.",
+  "requestFramePermissions": []
+}
